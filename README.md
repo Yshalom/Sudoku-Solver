@@ -1,7 +1,11 @@
-# Sudoku-Solver
-This project is a sudoku solver and uses Win32 and c++.
+<h1>Sudoku-Solver</h1>
+<h2>This project is a sudoku solver and uses Win32 and c++.</h2>
 
-This project was taken from Visual Studio and zipped.
+<p>This project was taken from Visual Studio and zipped.
 If you want to use this project download and unzip it.
 
-* Remember to run on Win32 (0x86).
+* Remember to run on Win32 (0x86).<p>
+
+<img crs="suduko 1.png"></img>
+<img crs="suduko 2.png"></img>
+<img crs="suduko 3.png"></img>
