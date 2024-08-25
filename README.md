@@ -6,6 +6,6 @@
 In the below pictures, you can see several states from the program when it runs.
 <p>
 
-<img src="sudoku 1.png"></img>
-<img src="sudoku 2.png"></img>
-<img src="sudoku 3.png"></img>
+<img src="Images/sudoku 1.png"></img>
+<img src="Images/sudoku 2.png"></img>
+<img src="Images/sudoku 3.png"></img>
