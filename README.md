@@ -3,7 +3,7 @@
 
 <p>* Remember to run on Win32 (0x86).
 
-In the below pictures, you can see several states from the program when it runs.
+In the pictures below, you can see the program when it runs.
 <p>
 
 <img src="Images/sudoku 1.png"></img>
